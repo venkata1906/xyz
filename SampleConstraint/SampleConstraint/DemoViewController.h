@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface DemoViewController : UIViewController
-
+- (void)viewDidLoad;
 @end
